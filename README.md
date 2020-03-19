@@ -1,7 +1,7 @@
 # hello-world
 first project for git tutorial
 
-helo pipol
+hello people
 
-dis is a veri inportnt stoof
-I ate strawberi jelli sadwich cuz it voz sad
+this is very important stuff
+I ate strawberry jelly sandwich cuz it was sad
